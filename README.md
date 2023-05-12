@@ -1,0 +1,2 @@
+# myGitCMD
+gitCmd for practice
